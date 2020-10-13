@@ -9,7 +9,7 @@ img[src*="kitty-1.png"] {
 
 /* Select the image with id of kitty-2 */
 
-/*__write_selector_here__*/ {
+img[src*="kitty-2.png"] {
   position: absolute;
   z-index: 2;
   top: 212px;
